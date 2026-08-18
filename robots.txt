@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-i9bn11.koi888.xyz/sitemap.xml
